@@ -22,8 +22,7 @@ In this repository, you will find all organisational information regarding the H
 | 19:00-20:00 	| Dinner                                      	| Dinner                            	|                                                   	|
 | 20:00-...   	| Keynote lecture                             	| Processing pint                   	|                                                   	|
 
-H = Hackathon
-B = Bootcamp
+H = Hackathon; B = Bootcamp
 
 ## Project ideas
 

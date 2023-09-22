@@ -12,8 +12,8 @@ In this repository, you will find all organisational information regarding the H
 | 9:00-10:00  	|                                             	|                                   	|                                                   	|
 | 10:00-11:00 	|                                             	| H: Hacking<br>B: Bootcamp project 	| H: Last hacking sprint<br>B: Project finalisation 	|
 | 11:00-12:00 	|                                             	|                                   	|                                                   	|
-| 12:00-13:00 	| ********************************************* |                                   	| Final Presentations                               	|
-| 13:00-14:00 	| Arrival and lunch                           	| Lunch                             	| ***************************************************** |
+| 12:00-13:00 	|                  ----------                 	|                                   	| Final Presentations                               	|
+| 13:00-14:00 	| Arrival and lunch                           	| Lunch                             	|                     ----------                    	|
 | 14:00-15:00 	| Check in to rooms                           	| H: Hacking<br>B: Bootcamp project 	|                                                   	|
 | 15:00-16:00 	| H: Project brainstorm<br>B: Bootcamp begins 	|                                   	|                                                   	|
 | 16:00-17:00 	|                                             	|                                   	|                                                   	|

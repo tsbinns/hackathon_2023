@@ -2,29 +2,26 @@
 
 ## Welcome to the second Hackathon of the [CRC ReTune](https://sfb-retune.de/)!
 
-In this repository, you will find all organizational information and documents regarding the hackathon. Furthermore, it serves as a test repository for all participants who are not yet familiar with Github.
+In this repository, you will find all organisational information regarding the Hackathon.
 
 ## Preliminary Schedule
 
-| -------------- | Wed 12.10        | Thu 13.10 | Fry 14.10             |
-| -------------- | ---------------- | --------- | --------------------- |
-| 08:00 - 09:00  |                  |           |                       |
-| 09:00 - 10:00  |                  |           |                       |
-| 10:00 - 11:00  |                  |           |                       |
-| 11:00 - 12:00  |                  |           | last coding sprint    |
-| 12:00 - 13:00  |                  |           | Projects presentation |
-| 13:00 - 14:00  | ***********      |           | *******************   |
-| 14:00 - 15:00  | Welcome coffee   | CODE      |                       |
-| 15:00 - 16:00  | Elevator pitches |           |                       |
-| 16:00 - 17:00  | Teams formation  | and food  |                       |
-| 17:00 - 18:00  |                  |           |                       |
-| 18:00 - 19:00  |                  |           |                       |
-| 19:00 - 20:00  | CODE             |           |                       |
-| 20:00 - 21:00  | (and dinner)     |           |                       |
-| 21:00 - 22:00  |                  |           |                       |
-| 22:00 - 23:00  |                  |           |                       |
-| 23:00 - 00:00  |                  |           |                       |
+|             	| Mon 23.10                                   	| Tue 24.10                         	| Wed 25.10                                         	|
+|-------------	|---------------------------------------------	|-----------------------------------	|---------------------------------------------------	|
+| 08:30-9:00  	|                                             	| Breakfast                         	| Breakfast<br>Check out of rooms                   	|
+| 9:00-10:00  	|                                             	|                                   	|                                                   	|
+| 10:00-11:00 	|                                             	| H: Hacking<br>B: Bootcamp project 	| H: Last hacking sprint<br>B: Project finalisation 	|
+| 11:00-12:00 	|                                             	|                                   	|                                                   	|
+| 12:00-13:00 	|                                             	|                                   	| Final Presentations                               	|
+| 13:00-14:00 	| Arrival and lunch                           	| Lunch                             	|                                                   	|
+| 14:00-15:00 	| Check in to rooms                           	| H: Hacking<br>B: Bootcamp project 	|                                                   	|
+| 15:00-16:00 	| H: Project brainstorm<br>B: Bootcamp begins 	|                                   	|                                                   	|
+| 16:00-17:00 	|                                             	|                                   	|                                                   	|
+| 17:00-18:00 	|                                             	|                                   	|                                                   	|
+| 18:00-19:00 	|                                             	|                                   	|                                                   	|
+| 19:00-20:00 	| Dinner                                      	| Dinner                            	|                                                   	|
+| 20:00-...   	| Keynote lecture                             	| Processing pint                   	|                                                   	|
 
-## Suggested projects
+## Project ideas
 
-(will be updated soon)
+Check out the projects page if you want to suggest a project or browse for one you might like to join.
